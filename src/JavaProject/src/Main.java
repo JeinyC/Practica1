@@ -1,7 +1,7 @@
 public class Main {
 
     public static void main(String[] args) throws Exception {
-        System.out.println("FUNCIONALIDAD BASICA");
+        System.out.println("FUNCIONALIDAD EDITADA PARA PARTE 2");
         method1();
 	method2();
     }
